@@ -1,0 +1,11 @@
+[{
+  "_id": {
+    "$oid": "672fba602470e35bd7ee25b4"
+  },
+  "nombre": "usuario",
+  "apellido": "prueba",
+  "ciudad": "Medellin",
+  "saldo": 500000,
+  "telefono": "+573014126488",
+  "correo": "davidpinedaaaa@gmail.com"
+}]
